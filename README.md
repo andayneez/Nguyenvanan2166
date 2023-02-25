@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nguyenvanan2166
-- 👀 I’m interested in Love
-- 🌱 I’m currently learning Crush
+- 👀 I’m interested in ....
+- 🌱 I’m currently learning Fullstack
 - 💞️ I’m looking to collaborate on Anonymous404
 - 📫 How to reach me 
 
